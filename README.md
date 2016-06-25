@@ -19,4 +19,4 @@ sudo youli -u https://www.youtube.com/watch?v=9vz4bh0KYGc -o ~cagatay/Desktop -n
 ```
 
 
-[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
+[![asciicast](https://asciinema.org/a/1s9ildez88fp53i8ucw6yuvyo)](https://asciinema.org/a/1s9ildez88fp53i8ucw6yuvyo)
