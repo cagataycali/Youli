@@ -9,7 +9,7 @@
 
 # Installing
 ```
-sudo npm i youli
+sudo npm i youli -g 
 ```
 
 # Example using
