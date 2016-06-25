@@ -9,11 +9,11 @@
 
 # Installing
 ```
-sudo npm i youli -g 
+sudo npm i youli -g
 ```
 
 # Example using
 
 ```
-youli -u https://www.youtube.com/watch?v=9vz4bh0KYGc -o ~cagatay/Desktop -n tavuklariPisirmisem
+sudo youli -u https://www.youtube.com/watch?v=9vz4bh0KYGc -o ~cagatay/Desktop -n tavuklariPisirmisem
 ```
