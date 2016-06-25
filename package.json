@@ -1,0 +1,25 @@
+{
+  "name": "youli",
+  "version": "1.0.0",
+  "description": "Youtube cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccali14/Youli.git"
+  },
+  "keywords": [
+    "Youtube",
+    "cli",
+    "cli",
+    "youtube"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccali14/Youli/issues"
+  },
+  "homepage": "https://github.com/ccali14/Youli#readme"
+}
