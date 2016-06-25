@@ -17,3 +17,6 @@ sudo npm i youli -g
 ```
 sudo youli -u https://www.youtube.com/watch?v=9vz4bh0KYGc -o ~cagatay/Desktop -n tavuklariPisirmisem
 ```
+
+
+[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/14)
