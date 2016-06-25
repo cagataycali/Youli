@@ -25,4 +25,5 @@ video.pipe(fs.createWriteStream(`${program.output}/${program.name}.mp4`));
 
 video.on('end', function() {
   console.log(`${program.name}.mp4 downloaded.`);
+  console.log('\u0007');
 });
