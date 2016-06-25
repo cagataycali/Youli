@@ -16,10 +16,13 @@ var video = youtubedl(program.url,
 
 // Will be called when the download starts.
 video.on('info', function(info) {
-  console.log('Download started');
+  console.log(`${program.name}.mp4 download started`);
   console.log('filename: ' + info._filename);
-  console.log('size: ' + info.size);
 });
 
 
 video.pipe(fs.createWriteStream(`${program.output}/${program.name}.mp4`));
+
+video.on('end', function() {
+  console.log(`${program.name}.mp4 downloaded.`);
+});
