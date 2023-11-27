@@ -27,6 +27,6 @@
   "homepage": "https://github.com/ccali14/Youli#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "youtube-dl": "^1.11.1"
+    "youtube-dl": "^3.4.0"
   }
 }
